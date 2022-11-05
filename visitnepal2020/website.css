@@ -1,0 +1,122 @@
+h1{
+	background: green;
+	text-align: center;
+	font-family: monospace;
+	padding: 10px;
+	font-size: 50px;
+	margin: 0;
+	color: white;
+}
+.one{
+	padding: 10px;
+	margine-left: none;
+	
+	border: 10px solid black;
+	
+}
+ul{
+	list-style-type: none;
+	 background-color: #333;
+	 margin: 0;
+	 padding: 0;
+	height: 50px;
+	text-align: left;
+	width: 100%;
+	
+}
+li{
+	float: left;
+	border-right: 1px solid white;
+
+
+} li a{
+	 display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+a:hover{
+	background: black;
+}
+
+.one{
+	background-color: lightgray;
+}
+
+.first{
+	;
+	text-align: justify;
+	font-family: monospace;
+		margin: 0;
+	padding: 5px;
+	
+}
+
+.map{
+	
+	width:100% ;
+	height: 400px;
+	padding: 5px;
+	
+
+}
+
+.topic{
+	margin-top: 5px;
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+	color: white;
+}
+
+.visit{
+	margin: 20px 100px;
+	border: 5px solid black;
+	background-color: gray;
+}
+.image{
+	width: 100%;
+	height: auto;
+
+}
+.para{
+	text-align: justify;
+	color: white;
+	padding: 10px;
+	font-size: 50px;
+
+}
+.seperate{
+	border:5px solid black ;
+	margin: 5px;
+	background-color: white;
+}
+h2{
+	text-align: Center;
+	font-size: 50px;
+	background-color: gray;
+	margin: 0;
+	color: white;
+}
+label{
+	font-size: 20px;
+	margin:0;
+	padding: 10px;
+	color: white;
+
+		}
+input[type=text], textarea {
+ width: 90%;
+  padding: 12px;
+ border: 3px solid black;
+ 
+  
+}
+
+
+.from{
+	background-color:gray;
+	border: 3px solid black;
+}
